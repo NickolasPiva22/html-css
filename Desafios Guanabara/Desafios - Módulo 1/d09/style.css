@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(32, 32, 32);
+}
+
+h1 {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+.videos {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+  width: 600px;
+  margin: auto;
+}
+
+.videos img {
+  width: 100%;
+}
