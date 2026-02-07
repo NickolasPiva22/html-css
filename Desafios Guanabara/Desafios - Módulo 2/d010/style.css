@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body {
     background-color: rgb(42, 243, 176);
 }
@@ -86,4 +87,94 @@ footer>p {
     color: white;
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
+=======
+body {
+    background-color: rgb(42, 243, 176);
+}
+
+h1 {
+    text-align: center;
+    box-sizing: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+    color: rgb(56, 163, 56);
+    display: block;
+}
+
+
+header {
+    display: block;
+    background-image: linear-gradient(to bottom, rgb(4, 180, 13), rgba(94, 223, 82, 0.911));
+    font-family: Arial, Helvetica, sans-serif;
+    border: 20px;
+    padding: 20px;
+}
+
+p {
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    font-size: 15px;
+
+}
+
+
+main {
+    display: block;
+
+    background-color: white;
+    padding: 10px;
+
+    
+}
+
+nav>a {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-weight: bold;
+    margin-right: 30px;
+    text-decoration: none;
+    
+}
+
+h3 {
+    display: block;
+    background-color: green;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    padding: 10px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    
+}
+
+div {
+    display: block;
+    background-color: aquamarine;
+    font-size: small;
+    border-radius: 10px;
+}
+
+b {
+    color: rgb(44, 143, 44);
+}
+
+ul {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+footer>p {
+    display: block;
+    background-color: green;
+    padding: 10px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+>>>>>>> ff1a280777875c89979b6517ee0682f13f02918a
 }
